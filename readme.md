@@ -17,7 +17,7 @@ SQL Queries: Used to interact with PostgreSQL
 ## Usage
 
 Run the script and pass an atomic number, symbol, or element name as an argument:
-````
+```
 ./element.sh hydrogen
 ./element.sh H
 ./element.sh 1
