@@ -22,3 +22,9 @@ Run the script and pass an atomic number, symbol, or element name as an argument
 ./element.sh H
 ./element.sh 1
 ```
+
+## Proof
+
+
+![Project Completion Screenshot](success.png)
+
